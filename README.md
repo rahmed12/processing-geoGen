@@ -5,4 +5,4 @@ Creates geometric patterns using HYPE
    2) HYPE (https://github.com/hype/HYPE_Processing)
    
 2) Once you installed those items you can run this sketch like any other processing sketch
-3) have fun modifying this code to your hearts content 
+3) Go ahead and modify this code to your hearts content just make sure you have fun
